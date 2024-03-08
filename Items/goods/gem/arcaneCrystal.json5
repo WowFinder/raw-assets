@@ -1,0 +1,6 @@
+{
+    $type: 'Gem',
+    key: 'arcaneCrystal',
+    iLevel: 60,
+    rarity: 'uncommon',
+}
