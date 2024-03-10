@@ -24,7 +24,7 @@
             ],
         },
     ],
-    sch: 'create',
+    school: 'create',
     castingTime: 'standard',
     components: ['V', 'S'],
     range: 'close',

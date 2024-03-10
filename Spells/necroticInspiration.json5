@@ -7,7 +7,7 @@
             castingTime: '1 h',
         },
     ],
-    sch: 'nec',
+    school: 'necromancy',
     duration: 'instantaneous',
     components: ['V', 'S', 'M'],
     flags: ['spellResistance'],

@@ -11,7 +11,7 @@
         { rank: 8 },
         { rank: 9 },
     ],
-    sch: 'summon',
+    school: 'summon',
     castingTime: 'full',
     components: ['V', 'S', 'M'],
     range: 'close',

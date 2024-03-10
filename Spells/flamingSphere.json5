@@ -42,7 +42,7 @@
             },
         },
     ],
-    sch: 'evo',
+    school: 'evocation',
     castingTime: 'standard',
     components: ['V', 'S', 'M'],
     range: 'medium',

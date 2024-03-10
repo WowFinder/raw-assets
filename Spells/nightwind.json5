@@ -77,7 +77,7 @@
             ],
         },
     ],
-    sch: 'celestial',
+    school: 'celestial',
     castingTime: 'standard',
     range: 'special',
     // area: cone (by rank)

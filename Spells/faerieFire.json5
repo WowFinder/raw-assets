@@ -1,7 +1,7 @@
 {
     key: 'faerieFire',
     ranks: [{ rank: 1 }],
-    sch: 'evo',
+    school: 'evocation',
     castingTime: 'standard',
     range: 'long',
     duration: '1 min/level',

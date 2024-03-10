@@ -6,7 +6,7 @@
             range: 'close',
         },
     ],
-    sch: 'nec',
+    school: 'necromancy',
     castingTime: 'standard',
     components: ['V', 'S'],
     duration: 'instantaneous',

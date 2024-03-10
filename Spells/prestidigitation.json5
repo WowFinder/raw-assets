@@ -7,7 +7,7 @@
             duration: '1 h',
         },
     ],
-    sch: 'uni',
+    school: 'universal',
     castingTime: 'standard',
     components: ['V', 'S'],
 }

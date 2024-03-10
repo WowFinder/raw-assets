@@ -12,7 +12,7 @@
             duration: '1 min',
         },
     ],
-    sch: 'div',
+    school: 'divination',
     castingTime: 'standard',
     components: ['V', 'S'],
 }

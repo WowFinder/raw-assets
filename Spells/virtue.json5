@@ -7,7 +7,7 @@
             duration: '1 min',
         },
     ],
-    sch: 'tra',
+    school: 'transmutation',
     castingTime: 'standard',
     components: ['V', 'S'],
     save: 'will',

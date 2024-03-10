@@ -18,10 +18,10 @@
             duration: '1 hour/level',
         },
     ],
-    sch: 'tra',
+    school: 'transmutation',
     castingTime: 'full',
     components: ['V', 'S', 'M'],
     range: 'close',
-    save: 'fort',
+    save: 'fortitude',
     flags: ['spellResistance'],
 }

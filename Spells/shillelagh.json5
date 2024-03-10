@@ -1,7 +1,7 @@
 {
     key: 'shillelagh',
     ranks: [{ rank: 1 }, { rank: 2 }, { rank: 3 }, { rank: 4 }, { rank: 5 }],
-    sch: 'tra',
+    school: 'transmutation',
     castingTime: 'standard',
     range: 'touch',
     duration: '1 min/level',

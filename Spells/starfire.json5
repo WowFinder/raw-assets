@@ -77,7 +77,7 @@
             ],
         },
     ],
-    sch: 'celestial',
+    school: 'celestial',
     castingTime: 'standard',
     duration: 'instantaneous',
     components: ['S'],

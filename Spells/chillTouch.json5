@@ -8,7 +8,7 @@
             rank: 2,
         },
     ],
-    sch: 'nec',
+    school: 'necromancy',
     castingTime: 'standard',
     components: ['V', 'S'],
     range: 'touch',

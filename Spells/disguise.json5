@@ -22,7 +22,7 @@
             range: 'close',
         },
     ],
-    sch: 'ill',
+    school: 'illusion',
     castingTime: 'standard',
     components: ['V', 'S'],
     save: {

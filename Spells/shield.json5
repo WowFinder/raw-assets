@@ -1,7 +1,7 @@
 {
     key: 'shield',
     ranks: [{ rank: 1 }, { rank: 2 }, { rank: 3 }, { rank: 4 }],
-    sch: 'abj',
+    school: 'abjuration',
     castingTime: 'standard',
     components: ['V', 'S'],
     range: 'self',

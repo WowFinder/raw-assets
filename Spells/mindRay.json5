@@ -24,7 +24,7 @@
             ],
         },
     ],
-    sch: 'void',
+    school: 'void',
     castingTime: 'standard',
     components: ['V', 'S'],
     range: 'close',

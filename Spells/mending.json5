@@ -8,7 +8,7 @@
         },
     ],
     range: 'special',
-    sch: 'tra',
+    school: 'transmutation',
     components: ['V', 'S'],
     duration: 'instantaneous',
     save: 'will',

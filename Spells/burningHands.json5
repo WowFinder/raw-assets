@@ -14,7 +14,7 @@
             area: 'cone (40ft)',
         },
     ],
-    sch: 'evo',
+    school: 'evocation',
     duration: 'instantaneous',
     castingTime: 'standard',
     components: ['V', 'S'],

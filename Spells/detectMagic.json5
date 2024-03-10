@@ -10,7 +10,7 @@
             duration: '3 turn/level',
         },
     ],
-    sch: 'div',
+    school: 'divination',
     castingTime: 'standard',
     components: ['V', 'S'],
     range: 'close',

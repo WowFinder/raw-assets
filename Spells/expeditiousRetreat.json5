@@ -22,7 +22,7 @@
             duration: '1 hour/level',
         },
     ],
-    sch: 'tra',
+    school: 'transmutation',
     castingTime: 'standard',
     components: ['V', 'S'],
     save: 'will',

@@ -10,7 +10,7 @@
             duration: '1 hour/level',
         },
     ],
-    sch: 'abj',
+    school: 'abjuration',
     castingTime: 'standard',
     components: ['V', 'S'],
     range: 'touch',

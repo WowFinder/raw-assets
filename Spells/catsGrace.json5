@@ -19,7 +19,7 @@
             range: 'close',
         },
     ],
-    sch: 'tra',
+    school: 'transmutation',
     castingTime: 'standard',
     components: ['V', 'S', 'M'],
     flags: ['spellResistance'],

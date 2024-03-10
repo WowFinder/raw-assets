@@ -10,7 +10,7 @@
             duration: 'concentration',
         },
     ],
-    sch: 'figment',
+    school: 'figment',
     castingTime: 'standard',
     components: ['V', 'S', 'M'],
     save: 'will',

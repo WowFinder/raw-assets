@@ -14,7 +14,7 @@
             rank: 4,
         },
     ],
-    sch: 'tra',
+    school: 'transmutation',
     castingTime: 'standard',
     components: ['V', 'S'],
     range: 'self',

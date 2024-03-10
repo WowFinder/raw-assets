@@ -12,7 +12,7 @@
             duration: '1 hour/level',
         },
     ],
-    sch: 'nec',
+    school: 'necromancy',
     castingTime: 'standard',
     components: ['V', 'S', 'M'],
     range: 'close',

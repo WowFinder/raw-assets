@@ -14,7 +14,7 @@
             range: 'close',
         },
     ],
-    sch: 'div',
+    school: 'divination',
     castingTime: 'standard',
     components: ['V', 'M'],
     duration: 'special',

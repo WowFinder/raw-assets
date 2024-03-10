@@ -1,7 +1,7 @@
 {
     key: 'mageArmor',
     ranks: [{ rank: 1 }, { rank: 2 }, { rank: 3 }, { rank: 4 }],
-    sch: 'create',
+    school: 'create',
     range: 'touch',
     duration: '1 hour/level',
     castingTime: 'standard',

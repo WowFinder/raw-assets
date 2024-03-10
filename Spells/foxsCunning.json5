@@ -26,7 +26,7 @@
             // target: 'up to one creature per 2 caster levels, no two of which can be more than 30 ft. apart'
         },
     ],
-    sch: 'tra',
+    school: 'transmutation',
     castingTime: 'standard',
     components: ['V', 'S', 'M'],
     save: 'will',

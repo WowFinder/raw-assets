@@ -8,7 +8,7 @@
             duration: '1 turn',
         },
     ],
-    sch: 'compel',
+    school: 'compel',
     castingTime: 'standard',
     save: 'will',
     components: ['V', 'S', 'M'],

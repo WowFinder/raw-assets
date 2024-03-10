@@ -1,7 +1,7 @@
 {
     key: 'falseLife',
     ranks: [{ rank: 1 }, { rank: 2 }, { rank: 3 }],
-    sch: 'nec',
+    school: 'necromancy',
     castingTime: 'standard',
     components: ['V', 'S'],
     range: 'self',

@@ -44,7 +44,7 @@
             ],
         },
     ],
-    sch: 'celestial',
+    school: 'celestial',
     castingTime: 'reaction',
     trigger: '[[WIP]] enemy spellcast in range',
     components: ['S'],
