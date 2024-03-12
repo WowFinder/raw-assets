@@ -1,5 +1,5 @@
 {
-    key: 'dwarf-bronzebeard',
+    key: 'dwarf-wildhammer',
     racialPoints: 14,
     size: 0,
     statMods: {
@@ -12,21 +12,26 @@
     },
     skillMods: {
         perception: 2,
+        ride: 2,
     },
     initialLanguages: ['common', 'dwarven'],
-    additionalLanguages: ['thalassian', 'darnassian', 'gnomish', 'ursine'],
-    commonAlignments: ['lawfulGood'],
+    additionalLanguages: [
+        'thalassian',
+        'darnassian',
+        'gnomish',
+        'draenei',
+        'pandaren',
+    ],
+    commonAlignments: ['neutralGood'],
     speeds: {
         base: 20,
     },
     /* TODO #463
-        Darkvision: 60'
         Defensive training: Lesser giants
-        Greed
         Hatred (Orc, Goblinoid)
         Hardy
         Stability
-        Stonecunning
-        Stoneform
+        Mountaneer
+        Gryphon Affinity
      */
 }

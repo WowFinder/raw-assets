@@ -1,5 +1,6 @@
 {
     key: 'draenei',
+    racialPoints: 14,
     size: 0,
     statMods: {
         strength: 2,
@@ -12,8 +13,8 @@
     skillMods: {
         perception: 2,
     },
-    initialLangs: ['common', 'draenei'],
-    additionalLangs: [
+    initialLanguages: ['common', 'draenei'],
+    additionalLanguages: [
         'orcish',
         'darnassian',
         'eredun',

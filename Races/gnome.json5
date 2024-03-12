@@ -1,0 +1,41 @@
+{
+    key: 'gnome',
+    racialPoints: 14,
+    size: -1,
+    statMods: {
+        strength: -2,
+        dexterity: 0,
+        constitution: 2,
+        intelligence: 0,
+        wisdom: 0,
+        charisma: 2,
+    },
+    skillMods: {
+        perception: 2,
+        technology: 2,
+        engineering: 2,
+    },
+    initialLanguages: ['common', 'gnomish'],
+    additionalLanguages: [
+        'darnassian',
+        'draconic',
+        'draenei',
+        'dwarven',
+        'pandaren',
+        'sylvan',
+        'thalassian',
+    ],
+    commonAlignments: ['chaoticGood'],
+    speeds: {
+        base: 20,
+    },
+    /* TODO
+        ? (1RP) Defensive training: Lesser giants
+        ? (2RP) Hatred (Goblinoid, Reptilian)
+        ? (1RP) Illusion resistance (+2 racial bonus to saves vs. illusion spells/effects)
+        Low-light vision
+        Nimble Fingers (extra attack for full attack actions)
+        Expansive Mind (extra prepared spell slot)
+        Gnome Magic (+1 spell RDC for illusion spells; spell-like abilities)
+     */
+}

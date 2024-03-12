@@ -1,5 +1,6 @@
 {
     key: 'high-elf',
+    racialPoints: 14,
     size: 0,
     statMods: {
         strength: 0,
@@ -12,8 +13,8 @@
     skillMods: {
         perception: 2,
     },
-    initialLangs: ['common', 'thalassian'],
-    additionalLangs: [
+    initialLanguages: ['common', 'thalassian'],
+    additionalLanguages: [
         'draconic',
         'dwarven',
         'gnomish',

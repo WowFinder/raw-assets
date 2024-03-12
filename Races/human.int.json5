@@ -1,6 +1,7 @@
 {
     key: 'human.int',
     size: 0,
+    racialPoints: 14,
     statMods: {
         strength: 0,
         dexterity: 0,
@@ -12,8 +13,8 @@
     skillMods: {},
     bonusSkillRanks: 1,
     bonusStartingFeats: 1,
-    initialLangs: ['common'],
-    additionalLangs: [
+    initialLanguages: ['common'],
+    additionalLanguages: [
         'darnassian',
         'draconic',
         'draenei',

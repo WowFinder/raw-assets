@@ -1,6 +1,8 @@
 {
     key: 'night-elf',
+    racialPoints: 14,
     size: 0,
+    racialPoints: 14,
     statMods: {
         strength: 0,
         dexterity: 2,
@@ -12,8 +14,8 @@
     skillMods: {
         perception: 2,
     },
-    initialLangs: ['common', 'darnassian'],
-    additionalLangs: [
+    initialLanguages: ['common', 'darnassian'],
+    additionalLanguages: [
         'draconic',
         'dwarven',
         'gnomish',

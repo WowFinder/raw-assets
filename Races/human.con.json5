@@ -1,5 +1,6 @@
 {
     key: 'human.con',
+    racialPoints: 14,
     size: 0,
     statMods: {
         strength: 0,
@@ -12,8 +13,8 @@
     skillMods: {},
     bonusSkillRanks: 1,
     bonusStartingFeats: 1,
-    initialLangs: ['common'],
-    additionalLangs: [
+    initialLanguages: ['common'],
+    additionalLanguages: [
         'darnassian',
         'draconic',
         'draenei',

@@ -1,6 +1,7 @@
 {
     key: 'furbolg',
     size: 0,
+    racialPoints: 14,
     statMods: {
         strength: 2,
         dexterity: 2,
@@ -9,8 +10,8 @@
         wisdom: 4,
         charisma: -2,
     },
-    initialLangs: ['ursine'],
-    additionalLangs: ['common', 'darnassian', 'eredun', 'orcish'],
+    initialLanguages: ['ursine'],
+    additionalLanguages: ['common', 'darnassian', 'eredun', 'orcish'],
     commonAlignments: ['neutralNeutral'],
     speeds: {
         base: 30,
