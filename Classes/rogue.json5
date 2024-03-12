@@ -2,10 +2,12 @@
     key: 'rogue',
     tier: 'base',
     maxLevel: 20,
-    hd: 8,
-    bab: 0.75,
+    hitDie: 8,
+    baseAttackProgression: 0.75,
     skillRanks: 8,
-    goodReflexes: true,
+    goodSaves: {
+        reflexes: true,
+    },
     startingWealth: 14000,
     skills: [
         'acrobatics',

@@ -2,10 +2,12 @@
     key: 'barbarian',
     tier: 'base',
     maxLevel: 20,
-    hd: 12,
-    bab: 1,
+    hitDie: 12,
+    baseAttackProgression: 1,
     skillRanks: 4,
-    goodFortitude: true,
+    goodSaves: {
+        fortitude: true,
+    },
     startingWealth: 10500,
     skills: [
         'acrobatics',

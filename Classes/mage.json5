@@ -2,11 +2,13 @@
     key: 'mage',
     tier: 'base',
     maxLevel: 20,
-    hd: 6,
-    bab: 0.5,
+    hitDie: 6,
+    baseAttackProgression: 0.5,
     skillRanks: 2,
-    goodWill: true,
-    arcane: 1,
+    goodSaves: {
+        will: true,
+    },
+    spellCasting: { arcane: 1 },
     list: 'arcane',
     startingWealth: 7000,
     skills: [

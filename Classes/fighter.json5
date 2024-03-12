@@ -2,10 +2,12 @@
     key: 'fighter',
     tier: 'base',
     maxLevel: 20,
-    hd: 10,
-    bab: 1,
+    hitDie: 10,
+    baseAttackProgression: 1,
     skillRanks: 2,
-    goodFortitude: true,
+    goodSaves: {
+        fortitude: true,
+    },
     startingWealth: 10500,
     skills: [
         'athletics',

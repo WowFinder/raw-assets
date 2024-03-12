@@ -2,11 +2,13 @@
     key: 'oracle',
     tier: 'base',
     maxLevel: 20,
-    hd: 8,
-    bab: 0.75,
+    hitDie: 8,
+    baseAttackProgression: 0.75,
     skillRanks: 4,
-    goodWill: true,
-    spontaneous: 1,
+    goodSaves: {
+        will: true,
+    },
+    spellCasting: { spontaneous: 1 },
     list: 'divine',
     startingWealth: 10500,
     skills: [
