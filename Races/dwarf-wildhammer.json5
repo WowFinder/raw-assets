@@ -31,11 +31,9 @@
         'gryphonAffinity',
         'hatredGoblin',
         'hatredOrc',
+        'hardy',
         'stability',
         'mountaineer',
         'unencumbered',
     ],
-    /* TODO #463
-        Hardy
-     */
 }

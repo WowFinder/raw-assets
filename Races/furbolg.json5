@@ -22,8 +22,8 @@
         will: 2,
     },
     traits: [
-        // TODO 'corneredFury',
-        // TODO 'healthy',
-        // TODO 'lucky',
+        'corneredFury',
+        'healthy',
+        'lucky',
     ],
 }

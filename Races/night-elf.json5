@@ -34,7 +34,7 @@
         'keenSenses',
         'lowLightVision',
         'quickness',
-        // TODO 'shadowmeld',
-        // TODO 'touchElune',
+        'shadowmeld',
+        'touchElune',
     ],
 }
