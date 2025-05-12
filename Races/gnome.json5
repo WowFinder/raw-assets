@@ -29,13 +29,14 @@
     speeds: {
         base: 20,
     },
-    /* TODO
-        ? (1RP) Defensive training: Lesser giants
-        ? (2RP) Hatred (Goblinoid, Reptilian)
-        ? (1RP) Illusion resistance (+2 racial bonus to saves vs. illusion spells/effects)
-        Low-light vision
-        Nimble Fingers (extra attack for full attack actions)
-        Expansive Mind (extra prepared spell slot)
-        Gnome Magic (+1 spell RDC for illusion spells; spell-like abilities)
-     */
+    traits: [
+        'defensiveTrainingGiant',
+        'hatredGoblin',
+        'hatredOrc',
+        'illusionResistance',
+        'lowLightVision',
+        'nimbleFingers',
+        'expansiveMind',
+        'gnomeMagic',
+    ],
 }

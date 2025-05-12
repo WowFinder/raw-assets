@@ -21,6 +21,9 @@
         reflexes: 2,
         will: 2,
     },
-    /* TODO #463
-     */
+    traits: [
+        'corneredFury',
+        'healthy',
+        'lucky',
+    ],
 }

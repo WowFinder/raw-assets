@@ -50,4 +50,7 @@
     speeds: {
         base: 30,
     },
+    traits: [
+        'gregarious',
+    ],
 }

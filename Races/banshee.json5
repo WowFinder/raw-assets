@@ -26,9 +26,9 @@
         fly: 40,
         maneuverability: 'average',
     },
-    /* TODO #463
-        Darkvision: 60'
-        +2 saving throws against disease and mind-affecting effects
-        Resistance to energy drain
-    */
+    traits: [
+        'darkvision60',
+        'undeadSaves',
+        'energyDrainResistance',
+    ],
 }

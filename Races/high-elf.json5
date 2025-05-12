@@ -26,4 +26,13 @@
     speeds: {
         base: 30,
     },
+    traits: [
+        'arcaneAcuity',
+        'arcaneAffinity',
+        'elvenImmunities',
+        'elvenMagic',
+        'keenSenses',
+        'lowLightVision',
+        'quickness',
+    ],
 }
