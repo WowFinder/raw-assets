@@ -26,12 +26,16 @@
     speeds: {
         base: 20,
     },
+    traits: [
+        'defensiveTrainingGiant',
+        'gryphonAffinity',
+        'hatredGoblin',
+        'hatredOrc',
+        'stability',
+        'mountaineer',
+        'unencumbered',
+    ],
     /* TODO #463
-        Defensive training: Lesser giants
-        Hatred (Orc, Goblinoid)
         Hardy
-        Stability
-        Mountaneer
-        Gryphon Affinity
      */
 }

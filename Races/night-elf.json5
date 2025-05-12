@@ -27,4 +27,14 @@
     speeds: {
         base: 30,
     },
+    traits: [
+        'arcaneAffinity',
+        'elvenImmunities',
+        'elvenMagic',
+        'keenSenses',
+        'lowLightVision',
+        'quickness',
+        // TODO 'shadowmeld',
+        // TODO 'touchElune',
+    ],
 }

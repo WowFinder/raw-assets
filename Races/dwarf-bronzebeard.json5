@@ -19,14 +19,16 @@
     speeds: {
         base: 20,
     },
-    /* TODO #463
-        Darkvision: 60'
-        Defensive training: Lesser giants
-        Greed
-        Hatred (Orc, Goblinoid)
-        Hardy
-        Stability
-        Stonecunning
-        Stoneform
-     */
+    traits: [
+        'darkvision60',
+        'defensiveTrainingGiant',
+        'greed',
+        // TODO 'hardy',
+        'hatredGoblin',
+        'hatredOrc',
+        'stability',
+        'stonecunning',
+        'stoneform',
+        'unencumbered',
+    ],
 }

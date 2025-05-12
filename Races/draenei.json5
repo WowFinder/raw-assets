@@ -26,11 +26,11 @@
     speeds: {
         base: 30,
     },
-    /* TODO #463
-        Ancient Foe: Demons
-        Defensive training: Demons
-        Eternal Hope
-        Lightbringer
-        Touch of the Naaru
-     */
+    traits: [
+        'ancientFoeShadow',
+        'defensiveTrainingShadow',
+        'eternalHope',
+        'lightBringer',
+        'touchNaaru',
+    ],
 }
